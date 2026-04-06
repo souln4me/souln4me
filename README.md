@@ -13,7 +13,13 @@
 
 <h2 align="center"> <em> About me </em></h3>
 
+<img src="https://images.unsplash.com/photo-1550439062-609e1531270e?q=80&w=2000&auto=format&fit=crop" width="250" align="right" style="margin-left: 20px;" />  
 
+</br>
+
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
 
 <!--
 **souln4me/souln4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
