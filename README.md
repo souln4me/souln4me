@@ -1,14 +1,14 @@
-## Hi there 👋
-
 <img src="https://github.com/user-attachments/assets/34252ee4-dabd-44ac-8b7c-801cc63f0d9c" width="100%">
 
-<br>
+<br class="mb-3">
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:#"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
-<br>
+<br class="mb-4">
+
+<h3 align="center">👨‍💻 About me</h3>
 
 <!--
 **souln4me/souln4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
