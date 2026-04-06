@@ -12,7 +12,7 @@
 
 <h2 align="center"> <em> About me </em></h3>
 
-<img src="https://github.com/user-attachments/assets/c8a6125f-46c4-44e4-b2a2-a25116c456f4" width="250" align="right" style="margin-left: 20px;" />  
+<img src="https://github.com/user-attachments/assets/374e822a-4a05-42dd-b99e-5f5e47601421" width="250" align="right" style="margin-left: 20px;" />  
 <br/>
 
 <p>
