@@ -2,6 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/34252ee4-dabd-44ac-8b7c-801cc63f0d9c" width="100%">
 
+---
+
 
 <!--
 **souln4me/souln4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
