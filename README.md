@@ -25,6 +25,7 @@
   <em><b>Studying at UNAB</b></em> <br/>
   <em><b>Comfortable with frontend technology</b></em> <br/>
   <em><b>Learning variety of tools </b></em> <br/>
+  <em><b></b></em> <br/>
 </p>
 
 <br/>
@@ -47,3 +48,8 @@
 </p>
 
 <br>
+
+<h2 align="center"> <em>📈 Statistics</em></h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souln4me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
