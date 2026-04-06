@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img src="![retrocomputer](https://github.com/user-attachments/assets/34252ee4-dabd-44ac-8b7c-801cc63f0d9c)
-" width="100%">
+<img src="https://github.com/user-attachments/assets/34252ee4-dabd-44ac-8b7c-801cc63f0d9c" width="100%">
 
 
 <!--
