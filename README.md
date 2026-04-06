@@ -1,12 +1,15 @@
 <img src="https://github.com/user-attachments/assets/34252ee4-dabd-44ac-8b7c-801cc63f0d9c" width="100%">
 
-<br class="mb-3">
-
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:#"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  
-<br class="mb-4">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:#" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+
+<br>
 
 <h3 align="center">👨‍💻 About me</h3>
 
