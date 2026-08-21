@@ -60,7 +60,7 @@
 
 <br>
 
-> ### 🍔 [Big Bite](#) 
+> ### 🍔 [Big Bite](https://github.com/souln4me/BigBite-DWM) 
 > **Full-Stack Web Development** <br>
 > <sub>*Status: 🔓 Public Repository*</sub><br>
 > Developed a robust web application architecture integrating a backend runtime environment with a NoSQL database and a responsive frontend interface. <br>
