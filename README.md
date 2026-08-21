@@ -49,6 +49,26 @@
 
 <br>
 
+<h2 align="center"> <em>💼 Featured Projects</em></h2>
+
+> ### 🚛 [Transportes Villena](https://transportesvillena.cl) 
+> **Corporate Landing Page & Infrastructure (Práctica I)** <br>
+> <sub>*Status: 🔒 Private Repository (Client Work) | 🌐 Live in Production*</sub><br>
+> Engineered a responsive corporate website featuring automated CI/CD deployment, custom DNS routing, and technical SEO optimization. <br>
+> <br>
+> <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+<br>
+
+> ### 🍔 [Big Bite](#) 
+> **Full-Stack Web Development** <br>
+> <sub>*Status: 🔓 Public Repository*</sub><br>
+> Developed a robust web application architecture integrating a backend runtime environment with a NoSQL database and a responsive frontend interface. <br>
+> <br>
+> <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white" />
+
+<br>
+
 <h2 align="center"> <em>📈 Statistics</em></h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=souln4me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
