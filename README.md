@@ -52,7 +52,7 @@
 <h2 align="center"> <em>💼 Featured Projects</em></h2>
 
 > ### 🚛 [Transportes Villena](https://transportesvillena.cl) 
-> **Corporate Landing Page & Infrastructure (Práctica I)** <br>
+> **Corporate Landing Page & Infrastructure** <br>
 > <sub>*Status: 🔒 Private Repository (Client Work) | 🌐 Live in Production*</sub><br>
 > Engineered a responsive corporate website featuring automated CI/CD deployment, custom DNS routing, and technical SEO optimization. <br>
 > <br>
